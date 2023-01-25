@@ -18,39 +18,42 @@ O guia será dividido por assuntos e conta com os seguintes tópicos:
 ### Comunicação
 
 Para que a seção funcione a comunicação é um dos pilares de sustentação, assim discutiremos aqui os canais para a comunicação com a diretoria e as recomendações para a comunicação com os pais.
-    *Comunicação com diretoria;
-    *Comunicação com os pais.
+
+- Comunicação com diretoria;
+- Comunicação com os pais.
 
 ### Dia a dia de uma seção
 
 Neste tópico serão abordados os assuntos mais comuns de uma seção tais como:
-    * Entrada e saída de jovens;
-    * Integração
-    * Rotas;
-    * Passagens;
-    * Mensalidades;
-    * Registro na UEB;
-    * Baixa de jovem
+
+- Entrada e saída de jovens;
+- Integração
+- Rotas;
+- Passagens;
+- Mensalidades;
+- Registro na UEB;
+- Baixa de jovem
 
 ### Atividades Externas
 
 Aqui abordaremos as etapas e prazos necessários para a aprovação das atividaes extenas de sua seção.
-    * plano da atividade
-    * projeto de segurança
+
+- Plano da atividade
+- Projeto de segurança
 
 ### Eventos e outras atividades
 
-    * Uso da sede
-    * Atividades distritais
-    * Atividades regionais
-    * Atividades nacionais
-    * Atividades internacionais
-    * Projeto financeiro
+- Uso da sede
+- Atividades distritais
+- Atividades regionais
+- Atividades nacionais
+- Atividades internacionais
+- Projeto financeiro
 
 ### Conquistas e Condecorações
 
-    * Promessa
-    * Conquistas
-    * Condecorações
+- Promessa
+- Conquistas
+- Condecorações
 
 ### Paxtu
