@@ -5,8 +5,11 @@ versão Indaba 2023
 ## Introdução
 
 Ser o chefe de seção é o equivalente a ser o monitor (no caso das Tropas - Primo no caso dos lobinhos)
-Ser o chefe da seção implica em algumsa responsabilidades para com a diretoria, que assim como vocês foi escolhido para ser o representante do movimento escoteiro perante os pais e a sociedade.
-O escotismo como uma prática é também a prática da organização, seja ela no âmbito que for, um escoteiro sempre vai organizar o seu ambiente da melhor forma possível para ter conforto, Assim, considerando a utopia do escotismo urge que façamos algo para  nos organizarmos dentro do nosso prórpio grupo para funcionarmos ainda melhor.
+Ser o chefe da seção implica em algumas responsabilidades para com a diretoria, que assim como você, foi escolhida  para ser o representante do movimento escoteiro perante os pais dos nossos associados e a sociedade .
+
+Nós escotistas, praticamos o escotismo na condição de adultos e temos o dever de zelar pela segurança e plena saúe de nossos jovens além disso, somos nós quem gerenciamos as informações e cocumentos da seção e prestamos contas aos pais sobre todos os aspectos da seção.
+O escotismo como uma prática pressupõem organização, seja ela no âmbito que for, um escoteiro sempre vai organizar o seu material no ambiente da melhor forma possível para ter conforto, assim, considerando a utopia do escotismo urge que façamos algo para  nos organizarmos dentro do nosso prórpio grupo para funcionarmos ainda melhor.
+
 É importante que os prazos aqui acordados sejam cumpidos e dentro do possível as boas práticas se tornem novos tópicos.
 Esse Guia não pretende se um procedimento ou algo do gênero, embora ele possa ser visto como tal, a ideia é colocar aqui as práticas consideradas como boas (as boas práticas) e discutir, entender e modificar este documento até que ele represente a nossa práxis.
 
