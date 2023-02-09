@@ -200,6 +200,21 @@ Considerar os jovens em rota nas atividades.
 
 ## 1.8 - Conquistas
 
+Toda a conquista deve ser comemorada por usa seção, contudo, nem toda conquista requer a participação da diretoria para ser entregue
+assim segue algumas recomendações
+
+#### Convide a diretoria para:
+- Promessa
+- Passagem de ramo
+- Entrega de insígnia máxima (ocorre na abertura)
+
+#### Não precisa convidar para:
+- Integração
+- Especialidades
+- Insignias especiais
+- Insignias de modalidade
+- cordões
+
 ## 1.9 - Passagens
 
 ### Processo
@@ -239,7 +254,6 @@ A seção de serviço é responsável também pelo arriamento da Bandeira e limp
  2.6 Tropa Senior Akuanduba   
  2.7 Tropa Senior Anhangá   
  2.8 Clã Cálice Sagrado   
-
 
 3. A primeira abertura do ano é conduzida pela diretoria
 
