@@ -226,7 +226,7 @@ Considerar os jovens em rota nas atividades.
 ## 1.10 - Seção de serviço
 
 A seção de serviço é a seção responsável por organizar e conduzir a cerimônia de abertura e o hasteamento, e tem papelo fundamental na progressão dos jovens, especialemente nos que ainda estão no período introdutório.   
-A seção de serviço é resposnável também pelo arriamento da Bandeira e limpeza da sede.
+A seção de serviço é responsável também pelo arriamento da Bandeira e limpeza da sede.
 
 ### Processo
 1. Para todo o sábado de atividade há uma seção de serviço responsável
@@ -248,7 +248,7 @@ A seção de serviço é resposnável também pelo arriamento da Bandeira e limp
 #### Chefe de Seção
 1. Mastro, bandeiras para hasteamento ate 14:25
 2. Arriamento ao entardecer
-3. retirar o lixo da sede
+3. retirar o lixo da sede, incluindo banheiros
 4. Auxiliar o flor de lis com 2 pais pelo menos para cantina
 
 Rodizio de pais para apoio à flor de lis em sábados de atividade normal
@@ -257,12 +257,29 @@ ceder pais de apoio para ajuda na cantina – 2 a 3 pais – os quais devem proc
 responsáveis do Flor de Lis que irão orientar sobre como apoiar a cantina no dia.
 Caso a seção não esteja em atividade no dia determinado no calendário, fica sob
 responsabilidade do CS negociar a troca do dia de serviço com as demais seções e informar ao
-Flor de Lis sobre qual será a tropa de serviço e apoio no dia em questão.
-A CS deverá informar até a sexta feira os nomes dos pais que irão ser o apoio no sábado para o
-FL.
-(sempre usar email da diretoria geral para essa comunicação
+Flor de Lis sobre qual será a tropa de serviço e apoio no dia em questão.   
+
+O CS deverá informar até a sexta feira os nomes dos pais que irão ser o apoio no sábado para o FL.
 
 ## 1.11 - Conselho de Pais
+
+Em todo início de ciclo é necessária uma reunião com os pais da seção, denominada Conselho de Pais. Esta reunião tem como objetivo apresentar as atividades da seção no ciclo que passou, apresentar a situação financeira da seção (prestação de contas) e outros assuntos pertinentes apenas à seção.   
+Nesta reunião é aprovado o calendário da seção e os gastos do caixa.
+Recomenda-se que haja sempre uma pauta (cerca de 10 a 15 minutos) pra falar sobre a educação esoteira e como os pais devem ajudar neste processo.
+Toda a reunião deve ter uma pauta enviada com antecedência aos pais
+A diretoria também participa e tem sempre um tempo garantido para apresentar alguma informação ou projetos em andamento.
+
+### Responsabilidades
+
+#### Chefe de Seção
+1. Consolidar a pauta do conselho de pais com sua seção.
+2. Convidar os pais para participação com pelo menos 15 dias de antecedência.
+3. Informar a diretoria sobre a data da realização.
+4. Incluir tempo na pauta para a diretoria.
+
+#### Diretoria
+1. Organizar o diretor presente na reunião
+2. Definir o tempo da pauta em comum acordo com o CS.
 
 ## 1.12 - Calendário da Seção
 Após cada reunião de planejamento (Indaba/Indabinha), o calendário do grupo será enviado
@@ -282,27 +299,45 @@ chefia
 ### Responsabilidades
 
 #### Chefe de Seção
+
 1. Informar os pais individualmente sobre suas obrigações com a mensalidade
 2. informar os pais sobre a forma de pagamento e a função da mensalidade
 
 #### Diretoria Financeira
+
 1. Informar os chefes de seção (no grupo de Whatsapp Chefes de Seção ou no email) sobre a situação dos jovens da seção
 
 ## 1.14 - Entrada de escotistas
 
 A definição sobre movimentações de chefes entre seção, ou entrada de novos chefes é responsabilidade da Diretoria de Métodos Educativos do Grupo.
-Sempre que os escotistas identificarem a necessidade da abertura de nova vaga de chefe (seja por necessidade de mais chefes ou baixas), deverá ser solicitado junto à DME por e-mail
-(assunto: Solicitação de Escotista para (nome da seção) para fácil rastreio e controle.
-Caso o chefe seja procurado para algum pai/mãe ou outro chefe que tenha interesse em
-ingressar na sua seção, o mesmo deverá informar a DME, a qual avaliará caso a caso de acordo
-com o procedimento acima citado.
-O agendamento de promessas de chefes será feito pela DME, em comum acordo com o APF do
-novo escotista e o pŕoprio voluntário, com comunicação para todos os Diretores e o CS, no
-mínimo com uma semana de antecedência.
+Sempre que os escotistas identificarem a necessidade da abertura de nova vaga de chefe (seja por necessidade de mais chefes ou baixas), deverá ser solicitado junto à DME.
+Caso o chefe seja procurado para algum pai/mãe ou outro chefe que tenha interesse em ingressar na sua seção, o mesmo deverá informar a DME, a qual avaliará caso junto com a diretoria.
+
+### Responsabilidades
+
+#### Chefe de Seção
+1. Informar a Diretoria de Métodos Educativos sobre possíveis baixas de chefes
+2. Informar a DME sobre novos voluntários que desejem se tornar escotistas
+3. Solicitar à DME a entrada de novos escotistas
+
+#### Diretoria de Métodos Educativos
+1. Manter o censo de escotistas da seção
+2. Organizar a entrada de novos escotistas
+3. Definir, em comum acordo com os envolvidos, o Assessor Pessoal de Formação do escotista
+4. Incentivar os escotistas da seção a frequentarem os cursos de formação
+
 
 ## 1.15 - Promessa de escotistas
+O agendamento de promessas de chefes será feito pela DME, em comum acordo com o APF do novo escotista e o pŕoprio voluntário, com comunicação para todos os Diretores e o CS, no
+mínimo com uma semana de antecedência.
 
 ## 1.16 - Porte de lâminas
+A diretoria do GECPA segue a definição da WOSM sobre porte de lâminas (facas e ou canivetes) em eventos internacionais, que define o tamanho máximo da lâmina para os jovens das Tropas Escoterias e Seniors.
+A Lâmina não pode ultrapassar 80mm (8cm) de gume.
+Deve ser acondicionada em bainha de material resistente tal como couro ou polímero duro (vetado porte de facas em bainhas de naylon ou tecido)
+É proibido o porte ostensivo de faca nas atividades de sede.
+Recomenda-se os canivetes com travas nas lâminas para minorar a possibilidade de acidentes em campo.
+Em algumas tropas o porte e uso de lâmina só é permitido aos jovens que tem promessa. (essa não é uma regra escrita, mas vem com as tropas em sua história e pode ser preservado quando existir)
 
 ## 1.17 - Baixa de jovens
 
