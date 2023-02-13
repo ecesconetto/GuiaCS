@@ -396,21 +396,37 @@ Em algumas tropas o porte e uso de lâmina só é permitido aos jovens que tem p
 # 2 - Atividades Externas
 Aqui abordaremos as etapas e prazos necessários para a aprovação das atividaes extenas de sua seção.
 
+As atividades externas são essenciais ao bom escotismo e por isso são frequentes em todas as seções, aqui não abordaremos um tipo específico de atividade externa, mas sim, os passos para que a atividade externa chegue para avaliação da diretoria com as informações corretas e dentro dos prazos definidos nos Indabas.
+
 Para realização de atividades externas é responsabilidade do CS (ou escotista para o qual o trabalho foi delegado):
-- Fazer a visita técnica do local para verificar possíveis riscos e pontos de atenção que precisem ser contemplados no projeto de segurança;
-- Criar a programação básica da atividade e considerar nela também os riscos de segurança;
-- Fazer o levantamento de custo da atividade;
-- Criar a atividade externa no Paxtu inserindo todas as informações pertinentes da atividade com especial atenção ao campo Tipos.
-- Definir o coordenador da atividade;
-- Adicionar todos os escotistas que participarão
-- Adicionar todos os jovens.
 
-Atenção neste ponto pois, às vezes jovens não estão inseridos nas devidas matilhas/patrulhas (jovens no limbo) a e podem não aparecer na listagem, o que acarreta problemas na geração das autorizações.
-No caso de convidar jovens em rota para a atividade este jovem deve ser selecionado e incluído na listagem.
+1. Fazer a visita técnica do local e verificar:
 
-Especial atenção aos jovens que possam estar com registro e listados, mas sem registro no momento da atividade. (em função da metodologia de registro atual da UEB)
-- Anexar toda a documentação (projeto de segurança, cópias de mapas, programação, textos explicativos, desenhos, e o que mais julgar necessário). Deve ser inserida na área de upload
-- Enviar e-mail para DME informando que o projeto está no Paxtu e solicitando avaliação.
+    * Se a estrutura atende o objetivo da atividade
+    * Se há banheiros em quantidade adequada (chuveiros inclusos)
+    * Verificar os possíveis problemas no deslocamento (pedágios, porteiras, cobrança de entrada, etc)
+    * Avaliar os riscos do local (cercas farpadas, cercas elétrica, buracos, despenhadeiros, lagos, piscinas, etc.)
+    * Anotar os pontos de atenção que precisem ser contemplados no **projeto de segurança**;
+
+> Caso não seja realizada a visita por motivos quaisquer a inormação do porque deve ser inserida no projeto da atividade. Ex. visita ao cinema - dispensada visita técnica por se tratar de um serviço oferecido num shopping por uma empresa especializada.
+
+2. Criar a programação básica da atividade;
+
+3. Fazer o levantamento de custo da atividade;
+
+4. Criar a atividade externa no Paxtu - conforme documento Atividade Externa.
+
+    * Preencher todos os campos conforme orientação
+    * Anexar toda documentação solicitada
+
+
+> Atenção especial ao gerar a atividade pois, às vezes jovens não estão inseridos nas devidas matilhas/patrulhas (jovens no limbo) a e podem não aparecer na listagem, o que acarreta problemas na geração das autorizações.
+
+>No caso de convidar jovens em rota para a atividade a diretoria deve ser informada para incluir o jovem no Paxtu.
+
+5. Enviar e-mail para DME informando que o projeto está no Paxtu e solicitando avaliação.
+
+> Especial atenção aos jovens que possam estar com registro e listados, mas sem registro no momento da atividade. (em função da metodologia de registro atual da UEB)
 
 IMPORTANTE: Este passo deve ser pensado e planejado na seção para acontecer com 21 dias de antecedência da atividade.
 Casos fortuitos precisam ser avaliados caso a caso.
