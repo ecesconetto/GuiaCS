@@ -394,7 +394,7 @@ Em algumas tropas o porte e uso de lâmina só é permitido aos jovens que tem p
 
 
 # 2 - Atividades Externas
-Aqui abordaremos as etapas e prazos necessários para a aprovação das atividaes extenas de sua seção.
+Aqui abordaremos as etapas e prazos necessários para a aprovação das atividades extenas de sua seção.
 
 As atividades externas são essenciais ao bom escotismo e por isso são frequentes em todas as seções, aqui não abordaremos um tipo específico de atividade externa, mas sim, os passos para que a atividade externa chegue para avaliação da diretoria com as informações corretas e dentro dos prazos definidos nos Indabas.
 
@@ -414,37 +414,72 @@ Para realização de atividades externas é responsabilidade do CS (ou escotista
 
 3. Fazer o levantamento de custo da atividade;
 
-4. Criar a atividade externa no Paxtu - conforme documento Atividade Externa.
+4. Criar a atividade externa no Paxtu - conforme documento **Atividade Externa**.
 
     * Preencher todos os campos conforme orientação
     * Anexar toda documentação solicitada
 
+5. Avisar a Diretoria de Métodos Educativos que o projeto está no Paxtu e solicitar avaliação - Whatsapp ou email.
 
-> Atenção especial ao gerar a atividade pois, às vezes jovens não estão inseridos nas devidas matilhas/patrulhas (jovens no limbo) a e podem não aparecer na listagem, o que acarreta problemas na geração das autorizações.
+**IMPORTANTE:** Este passo deve ser pensado e planejado na seção para acontecer com no mínimo 15 dias de antecedência da realização da atividade (idealmente 21 dias - para dois fins de semana de assinatura).
 
->No caso de convidar jovens em rota para a atividade a diretoria deve ser informada para incluir o jovem no Paxtu.
+> EX. Realizar a atividade no feriado de 01/05 implica que precisa colher as assinaturas no sábado anterior (22/04), para isso a atividade precisa ser postada no paxtu com uma semana de antecedência (15/04)   
 
-5. Enviar e-mail para DME informando que o projeto está no Paxtu e solicitando avaliação.
+**Casos fortuitos precisam ser avaliados individualmente.**
 
-> Especial atenção aos jovens que possam estar com registro e listados, mas sem registro no momento da atividade. (em função da metodologia de registro atual da UEB)
+## Informações Importantes
 
-IMPORTANTE: Este passo deve ser pensado e planejado na seção para acontecer com 21 dias de antecedência da atividade.
-Casos fortuitos precisam ser avaliados caso a caso.
+### Pagamentos
 
-PAGAMENTOS: Algumas atividades podem contar com a participação dos pais ou ter taxas também para os adultos. Nestas situações a DF deve ser informada sobre os valores e dados sobre a cobrança.
+Algumas atividades podem contar com a participação dos pais ou ter taxas também para os adultos. Nestas situações é responsabilidade do Chefe de Seção (ou organizador da atividade) informar a diretoria Financeira sobre os valores e dados sobre a cobrança.
 
-PARA NOVOS JOVENS INSCRITOS NA SEÇÃO: o prazo para que o CS aloque os jovens na devida seção, será na última sexta feira que antecede ao último sábado de inscrições.
+### Jovens novos na seção
+Para que um jovem novo possa participar da atividade, o Chefe de Seção deve puxar o jovem para a seção antes do último dia de assinaturas de autorizações.
+Além disso é necessário revisar o projeto no Paxtu, incluindo o jovem na lista dos participantes senão a autorização não é gerada.
+O Paxtu opera por fotografias, então quando a atividade foi montada a fotografia da seções está nos participantes, mas a partir do momento que lagu´me entra na seção, precisa ser incluido na atividade (Esse passo não é automático no sistema).
 
-ENTREGA DAS AUTORIZAÇÕES PARA SAÍDA DE ATIVIDADES:  serão repassadas aos CS ao “FINAL DO ÚLTIMO DIA DE ASSINATURAS”,
+### Entrega das Autorizações
 
-VALORES: Há opção do pagamento dos custos da atividade pela chefia e posterior reembolso, contudo, caso seja necessário, os valores recebidos poderão ser creditados via PIX para quem o CS designar
+serão repassadas aos Chefe de Seção ao **“FINAL DO ÚLTIMO DIA DE ASSINATURAS”**.
 
-####IMPORTANTE
-- Não é permitida a participação de jovens sem registro da UEB, em qualquer atividade do grupo.
-- Não é permitida a participação de escotistas sem registro da UEB (ainda que provisório), em qualquer atividade do grupo, mesmo que esteja em período de estágio.
+### Dinheiro para atividade / Reembolsos
+Caso a atividade contemple pagamentos de ingressos, pedárgios etc, que precisam ser feitos em dinheiro a Diretoria Financeira precisa ser avisada com antecedência para providenciar o dinheiro
+Os custos da atividade podem ser pagos diretamente pela chefia com solicitação posterior de reembolso, mediante a apresentação de relatório dinanceiro da atividade e todas as notas (ou outros documentos) de gastos na atividade. Os valores serão creditados via PIX para quem o Chefe de Seção designar (conforme relatório)
+
+### Especial Atenção
+- Aos jovens que possam estar com registro e listados, mas sem registro no momento da atividade. (em função da metodologia de registro atual da UEB)
+- **Não é permitida** a participação de jovens **sem registro da UEB**, em qualquer atividade do grupo.
+- **Não é permitida** a participação de escotistas **sem registro da UEB** (ainda que provisório), em qualquer atividade do grupo, mesmo que esteja em período de estágio.
 - Não é permitida liberação de autorizações em branco para pagamento e assinatura dos responsáveis – casos fortuitos devem ser avaliados pelo CS, DME e DF.
 
+
+
 ## 2.1 - Projeto da atividade
+
+Toda atividade externa deve ter um projeto que documente os pontos importantes.
+Por enquanto não há um padrão de documento para apresentação (estamos trabalhando nisso)
+Mas os pontos que devem constar necessáriamente no projeto são:
+
+1. Seção
+2. Atividade
+3. Data
+4. Local da atividade
+5. Objetivos educacionais
+6. Estimativas de custo
+7. Transporte
+    1. se transpais – divisão carros
+        1. Checklist
+    2. se ônibus fretado
+        1. Checklist
+    3. outros
+        1. os cuidados de cada um deles
+        2. Avaliar a possibilidade de criação de checklist para cada um
+            1. ex. passeio ciclistico (transporte = bicicleta)
+            2. ex. barco para ilha do mel (transporte = barco)
+8. Programação
+    1. atividades
+    2. horários
+    3. tipos de jogos – (objetivo da atividade)
 
 ## 2.2 - Projeto de segurança
 
@@ -452,7 +487,7 @@ VALORES: Há opção do pagamento dos custos da atividade pela chefia e posterio
 
 ## 2.4 - Avaliação de atividades
 
-## 2.5 - Prestação de contas 
+## 2.5 - Prestação de contas
 
 # 3 - Eventos e outras atividades
 
@@ -512,7 +547,6 @@ neste grupo devem ser feitas as comunicações específicas da seção, tais com
 - informações sobre atividades externas
 - informações sobre o vencimento do registro escoteiro
 - informações sobre documentos da seção
-
 
 #### CPA CHEFIA GERAL
 
